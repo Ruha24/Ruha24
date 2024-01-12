@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Ruha24
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, Qt
+- 👋 Hi, I’m Ruha
 
-<!---
-Ruha24/Ruha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img alt="my stats"  src="https://github-readme-stats.vercel.app/api?username=Ruha24&show_icons=true">
+
+<img alt="my language" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruha24&layout=compact">
